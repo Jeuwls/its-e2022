@@ -22,7 +22,7 @@ This course schedule will be updated as needed.
 |      | 02 Oct |                  |         | Assignment 3 handin                                       | 
 | 40   | 03 Oct | 10-12            | CJ      | Firewalls and tunnels                                     | PO 10
 |      | 04 Oct | 13-17            |         | Exercise class                                            | [Assignment 4](assignments/assignment4.md)
-|      | 07 Oct | 09-11            | CJ      | Cloud and IoT security                                    | TBD
+|      | 07 Oct | 10-12            | CJ      | Cloud and IoT security                                    | TBD
 |      | 09 Oct |                  |         | Assignment 4 handin                                       | 
 | 41   | 10 Oct | 10-12            | TL      | Intrusion detection and network attacks                   | PO 11
 |      | 11 Oct | 13-17            |         | Exercise class                                            | [Assignment 5](assignments/assignment5.md)
