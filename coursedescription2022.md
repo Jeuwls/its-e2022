@@ -46,7 +46,7 @@ SB available at Academic Books at Biocenteret (http://www.academicbooks.dk/) and
 
 There are 6 weekly assignment during the course. See due dates in lectureplan.
 
-The assignments will be pass/fail; expect to have at least 66 % of an assignment correct to get a pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 23 Oct @ 16:00.
+The assignments will be pass/fail; expect to have at least 66 % of an assignment correct to get a pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 23 Oct.
 
 All assignment will be in groups up to 3 persons. That means that you can discuss relating material and solutions with fellow students (outside the group), TAs and lectures (it is actually encouraged), but your group have to write up your own solution to the problems. You are under no circumstances allowed to share your written solutions with fellow students outside the group.
 

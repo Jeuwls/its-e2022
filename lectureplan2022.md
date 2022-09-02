@@ -6,7 +6,7 @@ This course schedule will be updated as needed.
 | ---- | ----   | -----            | ------- | -----                                                     | --------|
 | 36   | 05 Sep | 10-12            | TL      | Security concepts and principles                          | PO 1
 |      | 06 Sep | 13-17            |         | Exercise class                                            | [Assignment 0](assignments/assignment0.md)
-|      | 09 Sep | 10-12            | TL      | Cryptographic bulding blocks                              | PO 2
+|      | 09 Sep | 10-12            | TL      | Cryptographic building blocks                             | PO 2
 |      | 10 Sep |                  |         | No handin first week                                      | 
 | 37   | 12 Sep | 10-12            | TL      | Key establishment and certificate management              | PO 4.1-4.4, 8.1-8.5
 |      | 13 Sep | 13-17            |         | Exercise class                                            | [Assignment 1](assignments/assignment1.md)
