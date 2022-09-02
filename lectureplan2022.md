@@ -18,7 +18,7 @@ This course schedule will be updated as needed.
 |      | 25 Sep |                  |         | Assignment 2 handin                                       | 
 | 39   | 26 Sep | 10-12            | TL      | Software security - exploits and privilege escalation     | PO 6
 |      | 27 Sep | 13-17            |         | Exercise class                                            | [Assignment 3](assignments/assignment3.md)
-|      | 30 Oct | 10-12            | TL      | Malicious software                                        | PO 7
+|      | 30 Sep | 10-12            | TL      | Malicious software                                        | PO 7
 |      | 02 Oct |                  |         | Assignment 3 handin                                       | 
 | 40   | 03 Oct | 10-12            | CJ      | Firewalls and tunnels, security architecture              | PO 10
 |      | 04 Oct | 13-17            |         | Exercise class                                            | [Assignment 4](assignments/assignment4.md)
