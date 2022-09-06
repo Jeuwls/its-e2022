@@ -26,10 +26,10 @@ Instructors:
 Exercises will be held weekly in BIOcenter and will include help getting started on the assignments and feedback on the same.
 
 ### TAs
- * Morten Risum Pedersen
- * Niels Gøttge Lerche Hansen
- * Frederik Lunn Berthelsen
- * Andreas Lajer Mikkelsen
+ * Morten Risum Pedersen       Hold 1
+ * Niels Gøttge Lerche Hansen  Hold 2
+ * Frederik Lunn Berthelsen    Hold 3
+ * Andreas Lajer Mikkelsen     Hold 4
 
 ### Rooms
 
