@@ -33,7 +33,10 @@ Exercises will be held weekly in BIOcenter and will include help getting started
 
 ### Rooms
 
-  * BIOcenter 2-0-17, 2-1-17, 2-2-17, and 4-0-10.
+  * Hold 1 BIOcenter 2-0-17, 
+  * Hold 2 BIOcenter 2-1-17, 
+  * Hold 3 BIOcenter 2-2-17, 
+  * Hold 4 BIOcenter 4-0-10.
 
 ## Teaching Material
 
