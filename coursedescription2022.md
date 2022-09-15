@@ -47,7 +47,7 @@ SB available at Academic Books at Biocenteret (http://www.academicbooks.dk/) and
 
 ## Assignment
 
-There are 6 weekly assignment during the course. See due dates in lectureplan.
+There are 6 weekly assignment during the course. Assignments are posted on Mondays. See due dates in lectureplan. 
 
 The assignments will be pass/fail; expect to have at least 66 % of an assignment correct to get a pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 23 Oct.
 
