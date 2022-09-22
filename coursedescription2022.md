@@ -35,7 +35,7 @@ Exercises will be held weekly in BIOcenter and will include help getting started
 
   * Hold 1 BIOcenter 2-0-17, 
   * Hold 2 BIOcenter 2-1-17, 
-  * Hold 3 BIOcenter 2-2-17, 
+  * Hold 3 BIOcenter 4-0-10, 
   * Hold 4 BIOcenter 4-0-10.
 
 ## Teaching Material
@@ -53,7 +53,7 @@ The assignments will be pass/fail; expect to have at least 66 % of an assignment
 
 All assignment will be in groups up to 3 persons. That means that you can discuss relating material and solutions with fellow students (outside the group), TAs and lectures (it is actually encouraged), but your group have to write up your own solution to the problems. You are under no circumstances allowed to share your written solutions with fellow students outside the group.
 
-Note that all deadlines are Sundays.
+Note that all deadlines are Sundays at 16:00.
 
 ### Feedback
 Short written feedback to assignments will be given by TAs on the course. It will be given before the following exercise session, where you have the possibility to discuss with your TA. Feedback will focus on what could be approved in the assignment. The feedback may thus be useful for later assignments or the re-handin. Feedback will not give a direct justification of the evaluation (pass/fail).
