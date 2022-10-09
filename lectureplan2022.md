@@ -26,7 +26,7 @@ This course schedule will be updated as needed.
 |      | 09 Oct |                  |         | Assignment 4 handin                                       | 
 | 41   | 10 Oct | 10-12            | TL      | Intrusion detection and network attacks                   | PO 11
 |      | 11 Oct | 13-17            |         | Exercise class                                            | [Assignment 5](assignments/assignment5.md)
-|      | 14 Oct | 10-12            | TL      | Forensics                                                 | TBD
+|      | 14 Oct | 10-12            | TL      | Forensics                                                 | [NIST Guide to Integrating Forensic Techniques into Incident Response ](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-86.pdf) ch. 3+4
 |      | 16 Oct |                  |         | Assignment 5 handin                                       | 
 | 42   |        |                  |         | Fall Vacation - No lectures                               |
 |      | 23 Oct |                  |         | Possible re-handin of one assignment (1-4)                |
