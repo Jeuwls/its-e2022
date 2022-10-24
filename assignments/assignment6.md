@@ -6,11 +6,9 @@ Due: see lecture plan
 
 This assignment is not a SEED lab.
     
-You are given a firewall log file and tasked to investigate when a possible DDoS attack occurred. 
+Consider the file ``auth.log.zip`` given on the course web site. It contains the log of a SSH server that has come under attack. Analyse the file and try to determine what is going on and if the attack was successful or not. Briefly comment on how you would respond to the attack and make a short proposal for how to avoid, or reduce the effect of, similar attacks in the future.
 
-Download the log file ``fw_dmz.log.zip`` here: [fw_dmz.log.zip](fw_dmz.log.zip). Analyse it and try to find out when the attack started and stopped.
-
-Note: The file unzips to 1.7GB! Hint: In Bash, consider using a combination of command-line tools such as ``less``, ``wc``, ``cat``, ``grep``, ``sort`` and ``uniq`` to analyse the file.
+Note: The file unzips to 1.1MB. Hint: In Bash, consider using a combination of command-line tools such as ``less``, ``wc``, ``cat``, ``grep``, ``sort`` and ``uniq`` to analyse the file.
 
 Describe your observations in a short report.
 
