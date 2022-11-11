@@ -34,8 +34,7 @@ This course schedule will be updated as needed.
 |      | 25 Oct | 13-17            |         | Exercise class                                            | [Assignment 6](assignments/assignment6.md)
 |      | 28 Oct | 10-12            | CJ      | Privacy engineering                                       | [ENISA Data Protection Engineering](https://www.enisa.europa.eu/publications/data-protection-engineering/@@download/fullReport)
 |      | 30 Oct |                  |         | Assignment 6 handin                                       | 
-| 44   | 31 Oct | 10-11            | Guest   | Special topic                                             | 
-|      |        | 11-12            | TL,CJ   | Exam Q/A                                                  | 
+| 44   | 31 Oct | 10-11            | TL,CJ   | Exam Q/A                                                  | 
 | 45   | 11 Nov |                  |         | Exam                                                      | All of the above
 
 
